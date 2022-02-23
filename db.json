@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "Air Jordan 4",
-        "image": "/images/1.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/1.jpg",
         "tags": "92 ",
         "price": "59440",
         "status": "available"
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "name": "Nike Paul George PG 3",
-        "image": "/images/2.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/2.jpg",
         "tags": "25 Colors",
         "price": "53800",
         "status": "unavailable"
@@ -19,7 +19,7 @@
       {
         "id": 3,
         "name": "Jordan Why Not Zer0.2",
-        "image": "/images/3.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/3.jpg",
         "tags": "16 Color, y",
         "price": "48900",
         "status": "available"
@@ -27,7 +27,7 @@
       {
         "id": 4,
         "name": "Nike Air Foamposite One",
-        "image": "/images/4.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/4.jpg",
         "tags": "84 Colors",
         "price": "73148",
         "status": "available"
@@ -35,7 +35,7 @@
       {
         "id": 5,
         "name": "adidas Harden Vol.3",
-        "image": "/images/5.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/5.jpg",
         "tags": "34 Colors",
         "price": "46900",
         "status": "available"
@@ -43,7 +43,7 @@
       {
         "id": 6,
         "name": "Nike Zoom Kobe 1",
-        "image": "/images/6.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/6.jpg",
         "tags": "26 Colors",
         "price": "80391",
         "status": "available"
@@ -51,7 +51,7 @@
       {
         "id": 7,
         "name": "Nike Hyperdunk X(2018)",
-        "image": "/images/7.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/7.jpg",
         "tags": "",
         "price": "54600",
         "status": "available"
@@ -59,42 +59,42 @@
       {
         "id": 8,
         "name": "Nike KD 12",
-        "image": "/images/8.jpg",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/8.jpg",
         "tags": "",
         "price": "81800",
         "status": "available"
       },
       {
+        "id": 9,
         "name": "adidas D.O.N. Issue #1",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/9.jpg",
+        "tags": "",
         "price": "38800",
-        "status": "available",
-        "tags": "",
-        "image": "/images/9.jpg",
-        "id": 9
+        "status": "available"
       },
       {
+        "id": 10,
         "name": "adidas D.O.N. Issue #1",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/10.jpg",
+        "tags": "",
         "price": "48900",
-        "status": "available",
-        "tags": "",
-        "image": "/images/10.jpg",
-        "id": 10
+        "status": "available"
       },
       {
+        "id": 11,
         "name": "Nike Kyrie Flytrap",
-        "price": "34400",
-        "status": "available",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/11.jpg",
         "tags": "",
-        "image": "/images/11.jpg",
-        "id": 11
+        "price": "34400",
+        "status": "available"
       },
       {
+        "id": 12,
         "name": "Air Jordan 3",
-        "price": "44900",
-        "status": "available",
+        "image": "https://github.com/gbf555136/json-api/blob/main/images/12.jpg",
         "tags": "",
-        "image": "/images/12.jpg",
-        "id": 12
+        "price": "44900",
+        "status": "available"
       }
     ],
     "carts": []
